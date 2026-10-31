@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Meena 👋
 
-<!--
-**Meenachinnayya/Meenachinnayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence and Data Science Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring AI Engineer | Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- 🌱 Currently learning Python, SQL and Power BI.
+- 🤖 Exploring Machine Learning and Artificial Intelligence.
+- 📊 Interested in Data Analysis and Data Science.
+- 🚀 Working towards building real-world projects.
+
+Technical Skills
+
+- Python
+- SQL
+- NumPy
+- Pandas
+- Power BI
+- Tableau
+
+Currently Learning
+
+Machine Learning | Artificial Intelligence | Data Science
+
+Connect With Me
+
+- GitHub: "My GitHub Profile" (https://github.com/Meenachinnayya)
